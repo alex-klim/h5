@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  main.cpp
- *
- *    Description:  test main for port class
- *
- *        Version:  1.0
- *        Created:  12/11/2018 06:15:34 AM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Alex Klim
- *   Organization:  home
- *
- * =====================================================================================
- */
 #include "port.h"
 #include "vintage_port.h"
 

@@ -1,21 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  port.cpp
- *
- *    Description:  port class definition that was destroyed
- *
- *        Version:  1.0
- *        Created:  12/11/2018 05:18:44 AM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author:  Alex Klim
- *   Organization:  home
- *
- * =====================================================================================
- */
-
 #include "port.h"
 
 #include <cstring>

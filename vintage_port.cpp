@@ -1,20 +1,3 @@
-/*
- * =====================================================================================
- *
- *       Filename:  vintage_port.cpp
- *
- *    Description:  source for vintage port
- *
- *        Version:  1.0
- *        Created:  12/11/2018 07:06:37 AM
- *       Revision:  none
- *       Compiler:  gcc
- *
- *         Author: Alex Klim
- *   Organization: home
- *
- * =====================================================================================
- */
 #include "vintage_port.h"
 
 #include <iostream>
