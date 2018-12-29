@@ -1,4 +1,4 @@
-CPPFLAGS = -Wall -Wpedantic
+CPPFLAGS = -std=c++11 -Wall -Wpedantic
 
 .PHONY: all clean re
 
